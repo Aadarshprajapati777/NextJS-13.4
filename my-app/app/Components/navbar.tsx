@@ -8,6 +8,7 @@ export default function Navbar(){
             <Link href="/Screen/Login_Screen">Login</Link>
             <Link href="/Screen/Signup_Screen">Signup</Link>
             <Link href="/Backend_Data/Posts">Posts</Link>
+            
         </div>
     )
 }

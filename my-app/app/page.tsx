@@ -1,10 +1,7 @@
-const rootpage=()=>{
-  return(
+
+export default function Page() {
+  return (
     <div>
-    <h1>Aadrash</h1>
-    </div>
-  )
-}
-export default rootpage;
-
-
+      <h1> Default Page</h1>
+      </div>
+)}
